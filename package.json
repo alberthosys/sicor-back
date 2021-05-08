@@ -45,7 +45,7 @@
     "slug": "^1.1.0",
     "ssh2-promise": "^0.1.7",
     "swagger-ui-express": "^4.1.4",
-    "typeorm": "^0.2.24",
+    "typeorm": "^0.2.25",
     "typescript": "^3.8.3"
   },
   "devDependencies": {
